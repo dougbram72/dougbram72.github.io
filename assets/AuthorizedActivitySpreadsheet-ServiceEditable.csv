@@ -1,0 +1,142 @@
+Category, Activity,EMR,EMT,AEMT,Paramedic
+General,Operating an ambulance in a safe manner (emergency and non-emergency),Allowed,Allowed,Allowed,Allowed
+General,Stocking/Restocking an ambulance,Allowed,Allowed,Allowed,Allowed
+General,Disinfecting the equipment and ambulance,Allowed,Allowed,Allowed,Allowed
+General,"Disposing of contaminated equipment, including sharps and personal protective equipment",Allowed,Allowed,Allowed,Allowed
+General,"Decontaminating self, equipment, material and ambulance",Allowed,Allowed,Allowed,Allowed
+General,Initial Scene Management,,,,
+General,Assessing the scene and determining a need for additional resources,Allowed,Allowed,Allowed,Allowed
+General,Identifying a multiple-casualty incident and implementing the local incident management system,Allowed,Allowed,Allowed,Allowed
+General,Recognizing and preserving a crime scene,Allowed,Allowed,Allowed,Allowed
+General,Triaging patients utilizing local triage protocols,Allowed,Allowed,Allowed,Allowed
+General,"Providing safety for self, each patient, other emergency personnel and bystanders",Allowed,Allowed,Allowed,Allowed
+General,"Utilizing methods to reduce stress for each patient, other emergency personnel and bystanders",Allowed,Allowed,Allowed,Allowed
+General,Communicating with public safety dispatchers and medical control facilities,Allowed,Allowed,Allowed,Allowed
+General,Providing a verbal report to receiving personnel,Allowed,Allowed,Allowed,Allowed
+General,Providing a written report to receiving personnel,Allowed,Allowed,Allowed,Allowed
+General,Completing a prehospital care report,Allowed,Allowed,Allowed,Allowed
+General,Setting up and providing patient and equipment decontamination,Allowed,Allowed,Allowed,Allowed
+General,Using personal protective equipment,Allowed,Allowed,Allowed,Allowed
+General,Practicing infection control precautions,Allowed,Allowed,Allowed,Allowed
+General,Moving patients with or without a carrying device,Allowed,Allowed,Allowed,Allowed
+General,"Recognize and comply with advanced directives (DNR, living will, or durable POA for health care decisions)",Allowed,Allowed,Allowed,Allowed
+General,Referral of patient of alternate medical care site based on assessment,Unauthorized,Unauthorized,Allowed,Allowed
+General,Patient Assessment and Stabilization,,,,
+General,Obtaining consent for providing care,Allowed,Allowed,Allowed,Allowed
+General,"Communicating with bystanders, other health care providers, and patient family members",Allowed,Allowed,Allowed,Allowed
+General,Communicating with each patient while providing care,Allowed,Allowed,Allowed,Allowed
+General,Positioning the patient based upon situational need,Allowed,Allowed,Allowed,Allowed
+General,Securing the patient on transport devices,Allowed,Allowed,Allowed,Allowed
+General,Cardiac Arrest Management through CPR and an AED,Allowed,Allowed,Allowed,Allowed
+General,"Manual CPR for an adult, child, or infant using one or two persons",Allowed,Allowed,Allowed,Allowed
+General,CPR using a mechanical device,Allowed,Allowed,Allowed,Allowed
+General,Postresuscitative care to a cardiac arrest patient,Allowed,Allowed,Allowed,Allowed
+General,Following medical protocols for declared or potential organ retrieval,Allowed,Allowed,Allowed,Allowed
+General,Participating in the quality improvement process,Allowed,Allowed,Allowed,Allowed
+General,Providing EMS education to the public,Allowed,Allowed,Allowed,Allowed
+General,Providing education on injury prevention to the public,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing blood pressure manually by auscultation or palpation,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing blood pressure automatically by non-invasive methods,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing heart rate,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing level of consciousness,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing body temperature,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing pupil size and responsiveness to light,Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing absence or presence of respirations (including rate),Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing the quality of breath sounds by auscultation,Unauthorized,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,"Assessing skin color, temperature, and condition",Allowed,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing exhaled carbon dioxide by colorimetric detection device,Unauthorized,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,Assessing exhaled carbon dioxide by capnometry,Unauthorized,Allowed,Allowed,Allowed
+Vital Sign Assessment and Monitoring,"Non-invasive monitoring of hemoglobin derivatives (Ex: pulse oximetry, pulse CO-oximetry, etc.)",Allowed,Allowed,Allowed,Allowed
+Airway Management,Cricoid pressure by using the Sellick maneuver,Allowed,Allowed,Allowed,Allowed
+Airway Management,Head-tilt maneuver,Allowed,Allowed,Allowed,Allowed
+Airway Management,Chin-lift maneuver,Allowed,Allowed,Allowed,Allowed
+Airway Management,Modified chin-lift maneuver,Allowed,Allowed,Allowed,Allowed
+Airway Management,Jaw thrust maneuver,Allowed,Allowed,Allowed,Allowed
+Airway Management,Modified jaw thrust maneuver for injured patients,Allowed,Allowed,Allowed,Allowed
+Airway Management,Mouth-to-barrier ventilation,Allowed,Allowed,Allowed,Allowed
+Airway Management,Mouth-to-mask ventilation,Allowed,Allowed,Allowed,Allowed
+Airway Management,Mouth-to-mouth ventilation,Allowed,Allowed,Allowed,Allowed
+Airway Management,Mouth-to-nose ventilation,Allowed,Allowed,Allowed,Allowed
+Airway Management,Mouth-to-stoma ventilation,Allowed,Allowed,Allowed,Allowed
+Airway Management,Manual airway maneuvers,Allowed,Allowed,Allowed,Allowed
+Airway Management,"Manual upper-airway obstruction maneuvers (patient positioning, finger sweeps, chest thrusts, and abdominal thrusts)",Allowed,Allowed,Allowed,Allowed
+Airway Management,Suctioning the oral and nasal cavities with a soft or rigid device,Allowed,Allowed,Allowed,Allowed
+Airway Maintenance,Single lumen airways (supraglottic only),Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Multi-lumen airways (supraglottic only),Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Ventilator devices,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Non-invasive positive pressure ventilation,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Forceps removal of airway obstruction,Unauthorized,Not Allowed,Not Allowed,Allowed
+Airway Maintenance,Airway suctioning,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Blind insertion of a supraglottic airway that is not a laryngeal mask airway,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Blind insertion of the laryngeal mask airway,Unauthorized,Unauthorized,Not Allowed,Allowed
+Airway Maintenance,Oxygen venturi mask,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Gastric decompression by orogastric or nasogastric tube with any authorized airway device providing that capability,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Monitoring a nasogastric tube,Unauthorized,Unauthorized,Allowed,Allowed
+Airway Maintenance,Automatic transport ventilator,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Manually triggered ventilator,Unauthorized,Not Allowed,Not Allowed,Allowed
+Airway Maintenance,Flow-restricted oxygen-powered ventilation device,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Bag-valve-mask with in-line small-volume nebulizer,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Suctioning a stoma,Unauthorized,Allowed,Allowed,Allowed
+Airway Maintenance,Endotracheal intubation,Unauthorized,Unauthorized,Unauthorized,Allowed
+Airway Maintenance,Rapid sequence intubation/induction (medication assisted intubation),Unauthorized,Unauthorized,Unauthorized,Allowed
+Airway Maintenance,Needle Cricothyrotomy,Unauthorized,Unauthorized,Unauthorized,Allowed
+Airway Maintenance,Surgical Cricothyrotomy,Unauthorized,Unauthorized,Unauthorized,Allowed
+Airway Maintenance,Chest Decompression,Unauthorized,Unauthorized,Unauthorized,Allowed
+Oxygen Therapy Methods,Humidifier,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Nasal cannula,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Non-rebreather mask,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Partial rebreather mask,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Regulators,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Simple face mask,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Blow-by,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Using a bag-valve-mask with or without supplemental oxygen,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Ventilating an inserted supraglottic airway,Allowed,Allowed,Allowed,Allowed
+Oxygen Therapy Methods,Ventilating an inserted subglottic airway,Allowed,Allowed,Allowed,Allowed
+EKG,Applying cardiac monitoring electrodes,Allowed,Allowed,Allowed,Allowed
+EKG,Acquiring an EKG rhythm strip for an ALS provider interpretation,Allowed,Allowed,Allowed,Allowed
+EKG,Cardiac monitoring,Unauthorized,Unauthorized,Allowed,Allowed
+EKG,EKG Interpretation,Unauthorized,Unauthorized,Allowed,Allowed
+EKG,Automated external defibrillation (AED use),Allowed,Allowed,Allowed,Allowed
+EKG,Manual defibrillation,Unauthorized,Unauthorized,Allowed,Allowed
+EKG,Synchronized cardioversion,Unauthorized,Unauthorized,Unauthorized,Allowed
+EKG,External pacing,Unauthorized,Unauthorized,Unauthorized,Allowed
+Bleeding control,Elevating the extremity,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Applying direct pressure,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Utilizing a pressure point,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Applying a tourniquet,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Utilizing the Trendelenberg position,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Applying a pressure bandage,Allowed,Allowed,Allowed,Allowed
+Bleeding control,Wound packing,Allowed,Allowed,Allowed,Allowed
+Extremity splinting,Soft splints,Allowed,Allowed,Allowed,Allowed
+Extremity splinting,Anatomical extremity splinting without return to position of function,Allowed,Allowed,Allowed,Allowed
+Extremity splinting,Manual support and stabilization,Allowed,Allowed,Allowed,Allowed
+Extremity splinting,Vacuum splints,Allowed,Allowed,Allowed,Allowed
+Extremity splinting,Application of a traction splint,Unauthorized,Allowed,Allowed,Allowed
+Spinal Immobilization,Cervical collar,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Full-body immobilization device,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Manual stabilization,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Assisting with application of an upper-body spinal immobilization device,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Helmet removal,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Rapid Extrication,Allowed,Allowed,Allowed,Allowed
+Spinal Immobilization,Spinal motion restriction,Allowed,Allowed,Allowed,Allowed
+Vascular Access,Blood glucose monitoring,Allowed,Allowed,Allowed,Allowed
+Vascular Access,Capillary blood sampling,Unauthorized,Allowed,Allowed,Allowed
+Vascular Access,"Monitor, maintain or discontinue flow of IV line on transfers where physician approves transfer by an EMT                                       **Must be an approved IV fluid from the medication list",Unauthorized,Allowed,Allowed,Allowed
+Vascular Access,"Monitor, maintain or discontinue flow of IV line                                                  **Must be an approved IV fluid from the medication list",Unauthorized,Unauthorized,Allowed,Allowed
+Vascular Access,Venipuncture for obtaining blood sample,Unauthorized,Unauthorized,Allowed,Allowed
+Vascular Access,Initiation and maintenance of IV infusion or Saline Lock,Unauthorized,Unauthorized,Allowed,Allowed
+Vascular Access,Cannulation of an external jugular vein,Unauthorized,Unauthorized,Not Allowed,Allowed
+Vascular Access,Transportation of patient with capped arterial line,Unauthorized,Unauthorized,Allowed,Allowed
+Vascular Access,Accessing a peripherally inserted central catheter (PICC),Unauthorized,Unauthorized,Unauthorized,Allowed
+Vascular Access,Accessing a central line,Unauthorized,Unauthorized,Unauthorized,Allowed
+Vascular Access,Initiation of IO infusion,Unauthorized,Unauthorized,Allowed,Allowed
+Other,Monitoring a urinary catheter,Unauthorized,Allowed,Allowed,Allowed
+Other,Assisting with childbirth,Allowed,Allowed,Allowed,Allowed
+Other,Cutting of the umbilical cord,Allowed,Allowed,Allowed,Allowed
+Other,Irrigating the eyes of foreign or caustic materials,Allowed,Allowed,Allowed,Allowed
+Other,Bandaging the eyes,Allowed,Allowed,Allowed,Allowed
+Other,Restraining a violent patient if technician or patient safety is threatened,Allowed,Allowed,Allowed,Allowed
+Other,"Administration of whole blood, packed red blood cells, or blood products",Unauthorized,Unauthorized,Unauthorized,Allowed
+Other,Administration of any medications or procedures deemed necessary by a physician,Unauthorized,Unauthorized,Unauthorized,Allowed
+Other,"During an emergency, administration of any medication or procedure through medical protocol",Unauthorized,Unauthorized,Unauthorized,Allowed
+Other,"During nonemergency transportation, any activity specifically authorized by medical protocols or physician order",Unauthorized,Unauthorized,Unauthorized,Allowed

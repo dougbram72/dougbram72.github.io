@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sabetha EMS Protocols</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="./assets/app.js"></script>
+    <link rel="stylesheet" href="./assets/styles.css">
+</head>
+
+<body>
+    <div w3-include-html="./navbar.html"></div>
+
+
+
+    <div class="container" style="margin-top: 50pt;">
+        <div class="text-center border">
+            <h3>24.0 HEAD INJURIES</h3>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="text-center border bg-warning">
+                    <h4>All Providers</h4>
+                </div>
+                <!-- Treatment Steps -->
+                <ul>
+                    <li>Focused history and physical exam</li>
+                    <li>Cardiac monitor, ETCO2 if available, pulse oximetry</li>
+                    <li>Treatment Plan
+                        <ul>
+                            <li>Maintain airway, administer oxygen to maintain SaO2 90-94%</li>
+                            <li>Consider Selective Spinal Motion Restriction Protocol</li>
+                            <li>Monitor level of consciousness during transport</li>
+                            <li>Avoid hyperventilation, hypoxia, hypotension</li>
+                            <li>Consider targeted hyperventilation with targeted ETCO2 of 30-35 mmHg with extensor posturing</li>
+                        </ul>
+                    </li>
+                    <li>Cover skull fractures with dry, sterile dressings</li>
+                </ul>
+              
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <h4 class="bg-dark text-light text-center">Adult</h4>
+                <div class="bg-primary">
+                    <h5 class="text-center">EMT</h5>
+                </div>
+                <div class="bg-success  text-center">
+                    <h5>AEMT</h5>
+                </div>
+                <ul>
+                    <li>Advanced airway, vascular access and fluid 	therapy per IV/IO Access and Shock and Fluid Therapy Protocol</li>
+                    <li>BP every 5-10 minutes</li>
+                    <li>Follow the Traumatic Brain Injury pressure 	management under the Shock and Fluid Therapy Protocol</li>
+                </ul>
+                <div class="bg-danger  text-center">
+                    <h5>Paramedic</h5>
+                </div>
+                <ul>
+                    <li>Persistent hypotension: <a href="./meds.html#norepinephrine" target="_blank">Norepinephrine</a>  0.3-3 mcg/min IV/IO infusion, titrate SBP >100 mmHg </li>
+                    <li>Consider Rapid Sequence Intubation Protocol</li>
+                    <li>Consider Pain Management Protocol</li>
+                </ul>
+            </div>
+
+            <div class="col-sm-6">
+                <h4 class="bg-dark text-light  text-center">Pediatric <br> <small>not to exceed adult dose</small></h2>
+                    <div class="bg-primary">
+                        <h5 class="text-center">EMT</h5>
+                    </div>
+                    <div class="bg-success  text-center">
+                        <h5>AEMT</h5>
+                    </div>
+                    <ul>
+                        <li>Advanced airway, vascular access and fluid 	therapy per IV/IO Access and Shock and Fluid Therapy Protocol</li>
+                        <li>BP every 5-10 minutes</li>
+                        <li>Initiate LR 20 ml/kg for hypotension OR unable to obtain blood pressure</li>
+                        <li>Repeat LR 20 ml/kg times one for ongoing hypotension</li>
+                    </ul>
+                    <div class="bg-danger  text-center">
+                        <h5>Paramedic</h5>
+                    </div>
+                    <ul>
+                        <li>Persistent hypotension: <a href="./meds.html#norepinephrine" target="_blank">Norepinephrine</a> 0.05-0.1 mcg/kg/min IV/IO infusion, titrate to max of 2 mcg/kg/min to maintain SBP >70 + (age in years x 2) mmHg </li>
+                        <li>Consider Rapid Sequence Intubation Protocol</li>
+                        <li>Consider Pain Management Protocol</li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <script>
+        includeHTML();
+    </script>
+</body>
+
+</html>

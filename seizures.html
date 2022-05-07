@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sabetha EMS Protocols</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="./assets/app.js"></script>
+    <link rel="stylesheet" href="./assets/styles.css">
+</head>
+
+<body>
+    <div w3-include-html="./navbar.html"></div>
+
+
+
+    <div class="container" style="margin-top: 50pt;">
+        <div class="text-center border">
+            <h3>18.0 SEIZURES</h3>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="text-center border bg-warning">
+                    <h4>All Providers</h4>
+                </div>
+                <!-- Treatment Steps -->
+                <ul>
+                    <li>Focused history and physical exam
+                        <ul>
+                            <li>Blood glucose, assess temperature, oxygen saturation</li>
+                            <li>Determine possibility of third trimester pregnancy, if appropriate</li>
+                            <li>Assess scene for possible toxin, trauma, or overdose</li>
+                        </ul>
+                    </li>
+                    <li>Cardiac monitor, ETCO2 if available</li>
+                    <li>Treatment Plan
+                        <ul>
+                            <li>Do not restrain but protect from injury</li>
+                            <li>Selective Spinal Immobilization Protocol</li>
+                            <li>Unbundle patients if febrile seizure is possible</li>
+                            <li>Transport all seizure patients to closest hospital unless OLMC gives clearance</li>
+                            <li>Maintain open airway with patient in the recovery position</li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- Key Considerations -->
+                Key Considerations
+                <ul>
+                    <li> Intranasal (IN or intramuscular (IM) routes are preferred for first line administration of
+                        benzodiazepines until IV access is established
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <h4 class="bg-dark text-light text-center">Adult</h4>
+                <div class="bg-primary">
+                    <h5 class="text-center">EMT</h5>
+                </div>
+                <ul>
+                    <li>Consider advanced airway</li>
+                </ul>
+                <div class="bg-success text-center">
+                    <h5>AEMT</h5>
+                </div>              
+                <ul>
+                    <li>IV/IO Access and Fluid protocol if necessary</li>                   
+                </ul>
+                <div class="bg-danger text-center">
+                    <h5>Paramedic</h5>
+                </div>
+                <ul>
+                    <li><a href="./medications.html#MagnesiumSulfate">Midazolam</a>
+                        <ul>
+                            <li>IV/IO:  5 mg, may repeat in 5 minutes</li>
+                            <li>IM/IN:  10 mg</li>
+                        </ul>
+                    </li>
+                    <li>Pregnant females with eclampsia/seizures
+                        <ul>
+                            <li><a href="./medications.html#MagnesiumSulfate">Magnesium Sulfate</a> 4 gm IM</li>
+                            <li><h4>OR</h4></li>
+                            <li>Magnesium Sulfate 4 gm IV/IO over 15 minutes</li>
+                        </ul>
+                    </li>
+                    <li class="colmc">Contact OLMC for refractory seizure</li>
+                </ul>
+            </div>
+
+            <div class="col-sm-6">
+                <h4 class="bg-dark text-light text-center">Pediatric <br> <small>not to exceed adult dose</small></h2>
+                    <div class="bg-primary">
+                        <h5 class="text-center">EMT</h5>
+                    </div>
+                    <ul>
+                        <li>Consider advanced airway</li>
+                    </ul>
+                    <div class="bg-success text-center">
+                        <h5>AEMT</h5>
+                    </div>
+                    <ul>
+                        <li>IV/IO Access and Fluid protocol if necessary</li>
+                        
+                    </ul>
+                    <div class="bg-danger text-center">
+                        <h5>Paramedic</h5>
+                    </div>
+                    <ul>
+                        <li>Midazolam
+                            <ul>
+                                <li>IN:  0.3 mg/kg (max of 5 mg), may repeat one time</li>
+                                <li>IM:  0.15 mg/kg (max of 5 mg), may repeat one time</li>
+                                <li>IV/IO: 0.1 mg/kg (max 5 mg), may repeat one time</li>                                
+                            </ul>
+                        </li>
+                        <li class="colmc">Contact OLMC for refractory seizure</li>
+                    </ul>
+            </div>
+        </div>
+    </div>
+    <script>
+        includeHTML();
+    </script>
+</body>
+
+</html>
